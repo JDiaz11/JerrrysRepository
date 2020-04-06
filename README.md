@@ -1,2 +1,2 @@
-JerrrysRepository
+JerrysRepository
 =================
